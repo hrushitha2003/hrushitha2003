@@ -1,3 +1,5 @@
+![logo](https://github.com/hrushitha2003/hrushitha2003/blob/main/Chinthakayala%20Hrushitha.png)
+
 <h1 align="center">Hi 👋, I'm Chinthakayala Hrushitha</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 
